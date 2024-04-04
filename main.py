@@ -1,5 +1,1 @@
-def aFunctionWow():
-    print("so uh")
-
-def aDifferentFunction():
-    print("yes and yes")
+from PyQt6.QtWidgets import QApplication, QWidget
